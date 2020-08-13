@@ -1,0 +1,7 @@
+export const LANDING = '/'
+export const SIGN_IN = '/signin'
+export const SCHEDULE = '/schedule'
+export const ACCOUNT = '/account'
+export const ADMIN = '/admin'
+export const COURSES = '/courses'
+export const ADMIN_DETAILS = '/admin/:id'

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "firebase": "^7.17.2",
+    "gatsby": "^2.24.47",
+    "gatsby-cli": "^2.12.87",
+    "gatsby-plugin-manifest": "^2.4.23",
+    "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sharp": "^2.6.27",
+    "gatsby-source-filesystem": "^2.3.24",
+    "gatsby-transformer-sharp": "^2.5.13",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "recompose": "^0.30.0",
+    "styled-components": "^5.1.1"
+  }
+}
